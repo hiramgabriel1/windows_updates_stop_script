@@ -1,3 +1,7 @@
+# Iniciar script manualmente
+
+[code] py app.py
+
 # Cómo activar tu script Python en cuanto enciendas la PC
 
 Para activar tu script Python en cuanto enciendas la PC, puedes usar el Programador de tareas de Windows. El Programador de tareas te permite programar tareas para que se ejecuten en un momento específico.
@@ -14,6 +18,3 @@ Para activar tu script Python en cuanto enciendas la PC, puedes usar el Programa
 8. En el campo **Argumentos**, escribe cualquier argumento que quieras pasar a tu script.
 9. En la pestaña **Configuración**, puedes configurar opciones adicionales para tu tarea.
 10. Cuando hayas terminado, haz clic en **Aceptar**.
-
-**Ejemplo:**
-
