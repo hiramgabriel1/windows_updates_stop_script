@@ -1,6 +1,6 @@
 # Iniciar script manualmente
 
-[code] py app.py
+py app.py
 
 # Cómo activar tu script Python en cuanto enciendas la PC
 
